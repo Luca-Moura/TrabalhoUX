@@ -6,8 +6,9 @@
     
 }
 
-#head {
-    background-image:url('anuncio-de-classificados-1200x675-1.jpg');
+#head1 {
+    background: url(BB220205.jpg);
     background-repeat: repeat-x;
-    position: absolute;
-}
+   }
+
+  
